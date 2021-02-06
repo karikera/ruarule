@@ -1,0 +1,21 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "runtimeExecutable": "D:\\Users\\ME\\.bds\\bedrock_server.exe",
+            "cwd": "D:\\Users\\ME\\.bds",
+            "type": "node",
+            "request": "launch",
+            "name": "Launch Program",
+            "timeout": 30000,
+            "args": ["${workspaceFolder}"],
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "console": "integratedTerminal"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "zoneExpireTime": 345600000,
+    "playerExpireTime": 1209600000,
+    "zoneGap": 5,
+    "zoneYBellowRate": 0.2,
+    "zoneYAboveRate": 1.8,
+    "zoneNewSize": 10,
+    "trafficLimit": 1000000,
+    "trafficLimitPeriod": 300,
+    "warningLimit": 50,
+    "warningBan": 100,
+    "banReducingInterval": 1200000,
+    "welcomeMessage": "webcomeMesage",
+    "admins": []
+}

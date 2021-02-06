@@ -1,0 +1,6 @@
+/node_modules/
+/dist/
+
+/banlist_ip.json
+/banlist_xuid.json
+/dbconfig.json
